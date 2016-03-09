@@ -1,2 +1,3 @@
-[localhost]
-localhost
+ [local-machines]
+ -localhost
+ +localhost ansible_connection=local
